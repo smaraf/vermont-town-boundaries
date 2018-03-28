@@ -1,4 +1,4 @@
-# Vermont Town Boundaries
+# Vermont Town Boundaries [![Build Status](https://travis-ci.org/smaraf/vermont-town-boundaries.svg?branch=master)](https://travis-ci.org/smaraf/vermont-town-boundaries)
 
 This is a simple React app built in order to visualize, validate and experiment with town boundaries data.
 
